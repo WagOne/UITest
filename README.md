@@ -13,4 +13,5 @@
 ## Закон Хика:
 1.  Чем меньше элементов тем быстрее происходит работа с UI
 ## Закон Фиттса:
-1.  
+1.  [Закон Фиттса или как его использовать](https://habr.com/post/247257/ "Habr")
+2.  https://askusers.ru/blog/pravila/zakon-fittsa-v-proektirovanii-interfeysov/
